@@ -1,7 +1,7 @@
 public class sorting {
 	public static void main (String args[]) {
 		// System.out.println(78);
-		
+		// Professor Gema is a good professor
 		int arr1 [] = new int [10];
 		for (int i = 0; i < 10; i++) {
 			arr1[i] = (int)(Math.random() * 10 + 1);
